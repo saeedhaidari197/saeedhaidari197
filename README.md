@@ -1,20 +1,18 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Ahmad+Saeed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Ahmad+Saeed;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Afghanistan</h3>
+<h3 align="center">A passionate software developer/</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Myself**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/saeedhaidari197/saeedhaidari19/issues)**
+ 🌱 I’m currently learning **React, Next**
 
 ⚡ Hobbies **Anime, Gaming, Movies**
 
